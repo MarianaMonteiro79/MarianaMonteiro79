@@ -1,4 +1,4 @@
-## Hi, I'm Mariana 👋
+# Hi, I'm Mariana 👋
 
 I'm a Computer Engineering graduate from Universidade Lusófona do Porto.
 
@@ -7,7 +7,7 @@ I'm interested in Front-End development and enjoy building modern web applicatio
 Currently I'm looking for my first professional opportunity where I can contribute, continue learning and grow as a software developer.
 
 
-# Technologies
+## Technologies
 - HTML
 - CSS
 - JavaScript
@@ -18,7 +18,7 @@ Currently I'm looking for my first professional opportunity where I can contribu
 - Git
 
 
-# Featured Projects
+## Featured Projects
 
 - Carpentry Web Platform
 
@@ -59,12 +59,13 @@ Web Application
 Android Application
 
 
-# Currently learning
+## Currently learning
 - Java
 - Sprint Boot
 - Software Architecture
 
 
-# Contact
+## Contact
 LinkedIn:
+
 Email: marianafmmonteiro@gmail.com
