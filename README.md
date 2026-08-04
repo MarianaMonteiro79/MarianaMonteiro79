@@ -1,10 +1,12 @@
-# Hi, I'm Mariana 👋
+# Hi, I'm Mariana Monteiro 👋
 
-I'm a Computer Engineering graduate from Universidade Lusófona do Porto.
+I'm a Computer Engineering graduate from Universidade Lusófona do Porto, Portugal.
 
-I'm interested in Front-End development and enjoy building modern web applications, while also expanding my knowledge in Java back-end development.
+I'm passionate about creating intuitive web applications and continuously improving my software development skills.
 
-Currently I'm looking for my first professional opportunity where I can contribute, continue learning and grow as a software developer.
+I'm particularly interested in Front-End development, where I enjoy creating clean and user-friendly interfaces. At the same time, I'm strengthening my knowledge of Java and Spring Boot to become a well-rounded software developer.
+
+Currently, I'm looking for my first professional opportunity as a Software Developer, where I can contribute to real-world projects while continuing to learn and grow.
 
 
 ## Technologies
@@ -61,7 +63,7 @@ Android Application
 
 ## Currently learning
 - Java
-- Sprint Boot
+- Spring Boot
 - Software Architecture
 
 
