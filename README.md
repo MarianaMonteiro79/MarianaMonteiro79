@@ -62,12 +62,12 @@ Android Application
 
 
 ## Currently learning
-- Java
+- Java Best Practices
 - Spring Boot
-- Software Architecture
+- Software Testing
 
 
 ## Contact
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/marianafmmonteiro/
 
 Email: marianafmmonteiro@gmail.com
