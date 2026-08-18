@@ -56,7 +56,7 @@ Team Project
 Web Application
 
 
-- Meteo
+- WeatherStation-Plus
 
 Android Application
 
