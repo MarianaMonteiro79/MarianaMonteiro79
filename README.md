@@ -2,72 +2,114 @@
 
 I'm a Computer Engineering graduate from Universidade Lusófona do Porto, Portugal.
 
-I'm passionate about creating intuitive web applications and continuously improving my software development skills.
+I'm particularly interested in **Front-End Development**, where I enjoy creating clean and user-friendly web interfaces. I also enjoy working with **Java** and I'm continuing to strengthen my knowledge of back-end development with Spring Boot.
 
-I'm particularly interested in Front-End development, where I enjoy creating clean and user-friendly interfaces. At the same time, I'm strengthening my knowledge of Java and Spring Boot to become a well-rounded software developer.
-
-Currently, I'm looking for my first professional opportunity as a Software Developer, where I can contribute to real-world projects while continuing to learn and grow.
-
+I'm currently looking for my first professional opportunity where I can contribute to real-world projects, improve my practical skills and grow as a software developer.
 
 ## Technologies
+
+### Most comfortable with
+
 - HTML
 - CSS
 - JavaScript
-- React
 - Java
+
+### Experience with
+
+- React
 - Spring Boot
 - PostgreSQL
+- Kotlin
 - Git
-
 
 ## Featured Projects
 
-- Carpentry Web Platform
+### Carpentry Web Platform
 
-Individual Final Year Project
+**Individual Final Year Project**
 
-React + Spring Boot + PostgreSQL
+A full-stack web platform developed for a real carpentry business.
 
-Private repository
+**Technologies:** React · Java · Spring Boot · PostgreSQL
 
+**Highlights:**
+- User authentication and email MFA
+- Administrative dashboard
+- Portfolio and services management
+- 2D furniture configurator
+- Budget requests and estimates
+- Contextual chatbot
 
-- Meeter AI
+> The source code is private because the project was developed for a real business.
 
-Frontend Development
+---
 
-UI Design
+### Meeter AI
 
-Team Project
+Collaborative project focused on meeting management and productivity.
 
+**My contribution:**
+- Front-End development
+- UI design and mockups
+- Responsive interface improvements
+- Accessibility and usability analysis
+- Testing
 
-- Portly
+> This is a team project and the main repository is maintained by another team member.
 
-Smart Video Intercom
+---
 
-React Native
+### Portly
 
-Raspberry Pi
+A smart video intercom developed as an Embedded Systems group project.
 
-Team Project
+**My contribution:**
+- Mobile application development
+- Raspberry Pi integration
+- Camera and audio communication
+- Hardware integration
+- System testing
 
+**Technologies:** React Native · Expo · Node.js · Python · Raspberry Pi
 
-- Do Re Mi Shop
+> The main repository is maintained by another team member.
 
-Web Application
+---
 
+### WeatherStation+
 
-- WeatherStation-Plus
+Android application for displaying and analysing weather station data.
 
-Android Application
+**Features:**
+- Temperature and humidity readings
+- Air quality information
+- Historical data
+- Data visualisation through charts
 
+**Technologies:** Kotlin · Android Studio · Firebase Firestore
 
-## Currently learning
-- Java Best Practices
+---
+
+### Do Re Mi Shop
+
+Java web application developed as an academic project for an online music store.
+
+**Features:**
+- Product management
+- Product search
+- Shopping cart
+- Sales management
+
+**Technologies:** Java · JSP · Servlets · HTML · CSS
+
+## Currently Improving
+
+- Java
 - Spring Boot
 - Software Testing
 
-
 ## Contact
-LinkedIn: https://www.linkedin.com/in/marianafmmonteiro/
 
-Email: marianafmmonteiro@gmail.com
+- 💼 LinkedIn: [Mariana Monteiro](https://www.linkedin.com/in/marianafmmonteiro/)
+- 📧 Email: [marianafmmonteiro@gmail.com](mailto:marianafmmonteiro@gmail.com)
